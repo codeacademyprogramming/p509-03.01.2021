@@ -39,7 +39,7 @@ Simple client side form validation. Check required, length, email and password m
   - checkEmail() to validate email with regex
   - checkPasswordsMatch() to match confirm password
 - [demo video](https://user-images.githubusercontent.com/74110914/103479626-6a884900-4de8-11eb-9304-b3f0d5433952.mov)
-- [link to](https://github.com/codeacademyprogramming/p509-03.01.2021/starter) starter materials HTML and SCSS and JS.
+- [link to](https://github.com/codeacademyprogramming/p509-03.01.2021/tree/main/starter) starter materials HTML and SCSS and JS.
 
 
 ## Some other useful resources:
